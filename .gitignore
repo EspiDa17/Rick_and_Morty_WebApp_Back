@@ -1,0 +1,4 @@
+# Acá ponemos los archivos que no queremos que se suban al github
+
+.env
+node_modules
